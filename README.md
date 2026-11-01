@@ -45,6 +45,7 @@ A binary classification project that predicts whether a breast mass is benign or
 
 **5-fold cross-validation accuracy:** mean ≈ 0.951 (range 0.906 to 0.976), so the model is stable and not heavily overfit.
 
+
 ## Requirements
 
 - Python 3.9+
@@ -55,7 +56,7 @@ A binary classification project that predicts whether a breast mass is benign or
 - scikit-learn
 - jupyter
 
-
 ## Disclaimer
 
 This project is for educational purposes only and is not a medical diagnostic tool.
+
